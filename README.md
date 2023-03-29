@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) CSS Eğitimi Ödev-1.
